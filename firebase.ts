@@ -8,11 +8,11 @@ from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCT8vesre9NhDWqlbZuPweAiPms88m-TmA",
-  authDomain: "sid-clone.firebaseapp.com",
+  apiKey: "private",
+  authDomain: "private",
   projectId: "sid-clone",
-  appId: "1:963912801416:web:cc8db2aead51228bfd133d",
-  measurementId: "G-0T7DRPX2HZ"
+  appId: "private",
+  measurementId: "private"
 };
 
 // Initialize Firebase
